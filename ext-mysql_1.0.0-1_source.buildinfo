@@ -3,14 +3,14 @@ Source: ext-mysql
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- 1c6167f15e06894994426a0378cb72d7 1018 ext-mysql_1.0.0-1.dsc
+ 6b77dcf0e377cb6941e378cd4accb50d 999 ext-mysql_1.0.0-1.dsc
 Checksums-Sha1:
- 768a19d6c0786baba4e4686b9cb23fc00f06cdb4 1018 ext-mysql_1.0.0-1.dsc
+ 5a1997540c5de6a5816dae6f3f2a373ae71ad38e 999 ext-mysql_1.0.0-1.dsc
 Checksums-Sha256:
- feec9592e51be65564203f3d6bb5faefad32821fd56fc4cbe5a96712a4f3bf0f 1018 ext-mysql_1.0.0-1.dsc
+ 307aaec2671ab518968b90c66fa703989cb12bb3b3f88609e0f4f54b39d0eb83 999 ext-mysql_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 20 Sep 2021 08:52:47 +0000
+Build-Date: Tue, 28 Sep 2021 14:20:21 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
@@ -138,7 +138,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.36.1-8),
  libxml2 (= 2.9.10+dfsg-6.7),
  libzstd1 (= 1.4.8+dfsg-2.1),
- linux-libc-dev (= 5.10.46-4),
+ linux-libc-dev (= 5.10.46-5),
  login (= 1:4.8.1-1),
  lsb-base (= 11.1.0),
  m4 (= 1.4.18-5),

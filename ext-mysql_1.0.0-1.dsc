@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-mysql deb admin optional arch=all
 Checksums-Sha1:
- 5e8127ba3822d5800b4a7fd530ef87a30b6195f8 944 ext-mysql_1.0.0.orig.tar.xz
+ 7695ded68eed251c35e727ed994b2b2e46257fa0 940 ext-mysql_1.0.0.orig.tar.xz
  e8620adcf4e2283b037d9f818df3505d40bcc4a9 760 ext-mysql_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 02d3d4246bdfd523aa01d88101fc6e081ab41767c7c8436fecfd29d5321820e9 944 ext-mysql_1.0.0.orig.tar.xz
+ eda8ef34a7c663116d283686994b93c2f4184e76cd0913ccd3d5ead3fb0b5b4c 940 ext-mysql_1.0.0.orig.tar.xz
  f142c90d98930afed642d48e1aac75dfd1d218ac91b68b4b7c20ffb2197d934e 760 ext-mysql_1.0.0-1.debian.tar.xz
 Files:
- 638a18657eff6fbad55cc9bbef8e646a 944 ext-mysql_1.0.0.orig.tar.xz
+ f008b4d7ec697dda39710e84c0ef9ec3 940 ext-mysql_1.0.0.orig.tar.xz
  b132462c697b30401b896561ca443c1f 760 ext-mysql_1.0.0-1.debian.tar.xz
